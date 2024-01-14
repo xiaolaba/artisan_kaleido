@@ -1,4 +1,4 @@
-# artisan_kaleido
+# artisan_kaleido artisan-2.4.6
 old copy with center 309 temperature recorder, the master source code evolved, this is apply to old version only artisan-2.4.6  
 
 download , https://github.com/artisan-roaster-scope/artisan/archive/refs/tags/v2.4.6.zip  
