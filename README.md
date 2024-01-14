@@ -16,3 +16,5 @@ artisan-2.4.6\artisan-2.4.6\src\comm\CommCENTER309Python3.py
 改機紀錄, Artisan的主事者以把更新過的舊的通訊資料納入, 更容易讀取或適合用家修改, 但是這個溫度計現在賣US$200, 比起 ESP32 USD$2 來說高很多, 只好放棄不再繼續使用.  
 https://github.com/artisan-roaster-scope/artisan/pull/552  
 https://github.com/artisan-roaster-scope/artisan/issues/127  
+
+![center309setup.jpg](center309setup.jpg)  
